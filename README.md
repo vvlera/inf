@@ -4,7 +4,7 @@
 
 
 # Список файлов
-### -Азбука морзе на python(Морзянка)
+[Азбука морзе на python(Морзянка)](https://github.com/vvlera/inf/blob/main/%D0%9C%D0%BE%D1%80%D0%B7%D1%8F%D0%BD%D0%BA%D0%B0)
 ### -Азбука морзе в Excel(морзе в excel.xlsx)
 ### -Перевод из десятичной СС в указанную в python(СС.py)
 ### -Pdf про бактерии markdown (бактерии.pdf)
