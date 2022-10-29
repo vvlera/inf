@@ -1,6 +1,6 @@
 # inf
 # Уйманова Валерия 142гр
-![image](https://www.google.ru/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F948781846469358746%2F&psig=AOvVaw3NZt3FWKnr3h3XD27sIIL3&ust=1667110525857000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCR9q7khPsCFQAAAAAdAAAAABBE)
+![Build Status](https://www.google.ru/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F948781846469358746%2F&psig=AOvVaw3NZt3FWKnr3h3XD27sIIL3&ust=1667110525857000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCR9q7khPsCFQAAAAAdAAAAABBE)
 
 
 # Список файлов
