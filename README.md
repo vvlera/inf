@@ -17,7 +17,7 @@
 + [Закон алгебры в логике 4](https://github.com/vvlera/inf/blob/main/lagrida_latex_editor.png)
 + [Вычисление значений a,b и c, при которых значения выражения равно 0(логика в python.py)](https://github.com/vvlera/inf/blob/main/%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%20%D0%B2%20python.py)
 + $$\left( A\vee B \right)\vee C= A\vee \left( B\vee C \right)$$<br/> 
-+ [Формула в LaTex](https://github.com/vvlera/inf/blob/main/LaTex%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0.png)
++ [Формулы в LaTex](https://github.com/vvlera/inf/blob/main/LaTex%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0.png)
 + $$\overline{E}^2_1 = \sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}} + {\alpha}^{\frac{1}{2}}_1 + {\beta}^{\frac{2}{3}}_1$$
 >
 >  [аккаунт Codepen](https://codepen.io/vvlera)
