@@ -6,3 +6,4 @@ $$F = G{\frac{Mm }{R^{2}}}$$
 
 $$(x+a)^{2}= \sum_{k=0}^{n}\cdot (\frac{n}{k})\cdot x^{k} \cdot a^{n-k}$$
 
+![LaTex формулы](https://user-images.githubusercontent.com/114632272/200984487-24019023-1be9-4d16-9ca5-e2ecfaac3ee9.png)
