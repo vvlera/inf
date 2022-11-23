@@ -27,7 +27,7 @@ def InfC():
                                 Menu()
                         if type(i)!= int:
                             print('Произошла ошибка, попробуйте ещё раз')
-                            Menu()
+                            InfC()
                     elif find == '2':
                             N = int(input(' Введите мощность алфавита (N): '))
                             i = 0
