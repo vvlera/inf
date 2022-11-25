@@ -18,7 +18,7 @@
 + [Вычисление значений a,b и c, при которых значения выражения равно 0(логика в python.py)](https://github.com/vvlera/inf/blob/main/%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%20%D0%B2%20python.py)
 + [Логика в LaTex](https://github.com/vvlera/inf/blob/main/%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%20%D0%B2%20LaTex.md)
 + [Формулы в LaTex](https://github.com/vvlera/inf/blob/main/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B%20%D0%B2%20LaTex.md)
-+ [Решатель задач](https://github.com/vvlera/inf/commit/1d05d44b5e3371512ab10440f378d08752cab559)
++ [Решатель задач](https://github.com/vvlera/inf/blob/main/%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2012.py)
 
 >
 >  [Codepen](https://codepen.io/vvlera)
