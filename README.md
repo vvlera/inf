@@ -21,12 +21,13 @@
 + [Решатель задач](https://github.com/vvlera/inf/blob/main/%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2012.py)
 + [Викторина по биологии](https://github.com/vvlera/inf/blob/main/quizby.py)
 
-## flowchart LR
-
+## Схема:
+```mermaid
+flowchart LR
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-
+```
 >
 >  [Codepen](https://codepen.io/vvlera)
