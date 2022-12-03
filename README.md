@@ -24,10 +24,11 @@
 ## Схема:
 ```mermaid
 flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|Аттестация| B(11 класс)
+B --> C{ЕГЭ}
+C -->|хорошо сдал| D[ВУЗ]
+C -->|завалил| E[Армия/приключения для девочек]
+C -->|выгнали с экзамена| F[пересдача]-->C
 ```
 >
 >  [Codepen](https://codepen.io/vvlera)
