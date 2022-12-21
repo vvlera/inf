@@ -80,7 +80,23 @@ def menu():
                 Np = Np//10
             print(f'N10 = {N10}')
     CC2()
-    
+    def CC3():
+        a= int(input('Введите p (основание системы):\n'))
+        b= int(input('P, -ичная таблица умножения'))
+        if 2<a<=10 and 2<b<=10:
+            for i in range(1,10):
+                x=1
+                p-=1
+                for q  in range(1,10):
+                    y=1
+                    p-=1
+                    z=((x*y)//a)*10+(x*y)%a
+                    print(z)
+        else:
+            print('Вы ввели несуществующее значение, попробуйте ещё раз')
+            CC3()
+    CC3()        
+
         
               
 menu()    
