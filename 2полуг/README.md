@@ -60,4 +60,4 @@
 | 26 |  |
 | 27 |  |
 | 28 |  |
-+ [задача про пылесос #4]()
++ [задача про пылесос #4](https://github.com/vvlera/inf/blob/main/2%D0%BF%D0%BE%D0%BB%D1%83%D0%B3/%D0%BF%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81.py)
